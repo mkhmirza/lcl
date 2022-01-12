@@ -1,0 +1,9 @@
+﻿192.168.0.110|NOT in use
+ 192.168.0.100|IN use
+ 192.168.0.105|NOT in use
+ 192.168.0.107|NOT in use
+ 192.168.0.108|NOT in use
+ 192.168.0.116|NOT in use
+ 192.168.0.131|NOT in use
+ 192.168.0.138|NOT in use
+
