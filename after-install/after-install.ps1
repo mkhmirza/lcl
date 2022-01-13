@@ -14,4 +14,3 @@ Write-Output $accounts.Name
 Get-WMIObject -class Win32_UserProfile | Where -Property Name -EQ $accountName  | Remove-WmiObject
 
 Remove-LocalUser -Name $accountName
-
